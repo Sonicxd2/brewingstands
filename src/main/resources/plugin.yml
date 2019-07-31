@@ -1,0 +1,5 @@
+name: BrewingStands
+main: ru.sonicxd2.brewingstand.BrewingStandsPlugin
+version: '1.0'
+commands:
+  bs:
